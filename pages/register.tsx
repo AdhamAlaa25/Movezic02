@@ -118,7 +118,7 @@ const Register: NextPage = () => {
   return (
     <div className="font-ProximaRegular text-white bg-[#000000]">
       <Head>
-        <title>Musive - register</title>
+        <title>Movezic - register</title>
       </Head>
 
       <div
@@ -140,7 +140,7 @@ const Register: NextPage = () => {
                 className="text-center uppercase mx-2 
               tracking-wider font-ProximaBold"
               >
-                Musive
+                Movezic
               </h1>
             </div>
 

@@ -106,7 +106,7 @@ const Home: NextPage = () => {
 
           <div className="mt-12">
             <h1 className="px-8 tablet:px-6 mobile:px-4 text-xl font-ProximaBold mb-6 mobile:text-base">
-              Top Hits this Week
+              Songs you may like
             </h1>
             <HorizontalTracksList tracks={topHits} />
           </div>
@@ -118,7 +118,7 @@ const Home: NextPage = () => {
           </div>
           <div className="mt-6">
             <h1 className="px-8 tablet:px-6 mobile:px-4 text-xl font-ProximaBold mb-6 mobile:text-base">
-              Popluar releases
+              Recommended For you 
             </h1>
             <HorizontalTracksList tracks={popularHits} />
           </div>

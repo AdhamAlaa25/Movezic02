@@ -37,11 +37,11 @@ const Home: NextPage = () => {
       <Head>
         <meta
           property="og:title"
-          content="Musive - Download & use free music anywhere."
+          content="Movezic - Download & use free music anywhere."
         />
         <meta
           property="og:site_name"
-          content="Musive - Download & use free music anywhere."
+          content="Movezic - Download & use free music anywhere."
         />
         <meta property="og:url" content="https://musive.vercel.app" />
 
@@ -75,7 +75,7 @@ const Home: NextPage = () => {
           itemProp="image"
           content="https://musive.vercel.app/musive_intro_card.png"
         />
-        <title>Musive - Download & use free music anywhere.</title>
+        <title>Movezic - Download & use free music anywhere.</title>
       </Head>
       <div className="fixed top-0 left-0 right-0 z-40 bg-[#0d0d0d]">
         <div className="flex flex-row max-w-[1280px] justify-between items-center mx-auto p-2">
@@ -85,7 +85,7 @@ const Home: NextPage = () => {
               className="text-center uppercase mx-2 
               tracking-wider font-ProximaBold"
             >
-              Musive
+              Movezic
             </h1>
           </div>
           <div className="flex uppercase text-sm">

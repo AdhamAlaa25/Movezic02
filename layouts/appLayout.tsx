@@ -16,7 +16,7 @@ function AppLayout({ children, title, color, onScroll }: any) {
   return (
     <div>
       <Head>
-        <title>{"Musive / " + title}</title>
+        <title>{"Movezic / " + title}</title>
       </Head>
       <div className="font-ProximaRegular text-white bg-[#121212]">
         <div className="flex flex-row h-screen w-screen max-w-full">
@@ -40,7 +40,7 @@ function AppLayout({ children, title, color, onScroll }: any) {
                   className="text-center uppercase mx-2 text-md 
                  tracking-wider font-ProximaBold mini-laptop:hidden"
                 >
-                  Musive
+                  Movezic
                 </h1>
               </div>
             </Link>
